@@ -4,7 +4,7 @@ This is an app created to be a Grocery Buddy. It can also work as a "To-Do" app.
 
 ## HOW TO USE
 
-Enter the [link](https://github.com/gsvaliente/groceryListProject) and start adding items 🤪
+Enter the [link](https://gsvb-grocerylist.netlify.app) and start adding items 🤪
 
 ## FEATURES
 
